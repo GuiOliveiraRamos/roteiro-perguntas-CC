@@ -11,6 +11,8 @@ export default function RoteiroPerguntas() {
     "Confirmar a quantidade de acompanhantes",
     "Confirmar atividades",
     "Confirmar a necessidade de trazer lanche",
+    "Confirmar ano escolar do aluno",
+    "Confirmar se algum aluno tem necessidade de atendimento especial e se há acompanhante",
   ];
   const [listaTarefas, setListaTarefas] = useState(tarefasIniciais);
 
